@@ -1,0 +1,12 @@
+﻿  CBodyBasics.cpp
+CBodyBasics.cpp(419): warning C4018: “<”: 有符号/无符号不匹配
+CBodyBasics.cpp(421): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+CBodyBasics.cpp(535): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+CBodyBasics.cpp(536): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+CBodyBasics.cpp(609): warning C4101: “neck”: 未引用的局部变量
+  main.cpp
+  正在生成代码
+  All 102 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Asphalt1.0.vcxproj -> C:\Users\雷佳鑫\Desktop\人机交互\Asphalt1.5\Release\Asphalt1.0.exe
+  Asphalt1.0.vcxproj -> C:\Users\雷佳鑫\Desktop\人机交互\Asphalt1.5\Release\Asphalt1.0.pdb (Full PDB)

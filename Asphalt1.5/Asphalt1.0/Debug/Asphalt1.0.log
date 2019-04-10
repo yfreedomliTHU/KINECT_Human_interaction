@@ -1,0 +1,10 @@
+﻿  main.cpp
+  CBodyBasics.cpp
+c:\users\雷佳鑫\desktop\人机交互\asphalt1.5\asphalt1.0\cbodybasics.cpp(419): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\雷佳鑫\desktop\人机交互\asphalt1.5\asphalt1.0\cbodybasics.cpp(421): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+c:\users\雷佳鑫\desktop\人机交互\asphalt1.5\asphalt1.0\cbodybasics.cpp(535): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\雷佳鑫\desktop\人机交互\asphalt1.5\asphalt1.0\cbodybasics.cpp(536): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\雷佳鑫\desktop\人机交互\asphalt1.5\asphalt1.0\cbodybasics.cpp(609): warning C4101: “neck”: 未引用的局部变量
+  正在生成代码...
+  Asphalt1.0.vcxproj -> C:\Users\雷佳鑫\Desktop\人机交互\Asphalt1.5\Debug\Asphalt1.0.exe
+  Asphalt1.0.vcxproj -> C:\Users\雷佳鑫\Desktop\人机交互\Asphalt1.5\Debug\Asphalt1.0.pdb (Full PDB)
